@@ -141,7 +141,7 @@ export function Component() {
                   color: "white",
                 }}
               >
-                Titles
+                Title
               </Typography>
             </Box>
             <Box
